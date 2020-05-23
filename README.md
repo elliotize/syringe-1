@@ -1,3 +1,6 @@
+# Moved to
+https://github.com/elliotize/syringe/
+
 # Syringe
 
 [![Build Status](https://travis-ci.org/Bonemind/syringe.svg?branch=master)](https://travis-ci.org/Bonemind/syringe)
